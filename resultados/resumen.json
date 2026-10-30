@@ -1,0 +1,15 @@
+{
+  "frecuencia_muestreo_hz": 1000.0,
+  "duracion_s": 2.0,
+  "componentes_hz": [
+    5.0,
+    50.0,
+    120.0
+  ],
+  "rms": {
+    "entrada": 1.0332372107849948,
+    "Pasa bajos · Butterworth IIR": 0.7219177650801446,
+    "Pasa altos · Chebyshev I IIR": 0.4950144284813048,
+    "Pasa bandas · FIR Hamming": 0.5116536863845721
+  }
+}
